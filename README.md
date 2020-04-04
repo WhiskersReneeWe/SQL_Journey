@@ -1,4 +1,4 @@
-# SQL_Journey
+# SQL Journey
 A high-level course note on [**Data Wrangling, Analysis and AB Testing with SQL** ](https://www.coursera.org/learn/data-wrangling-analysis-abtesting/home/welcome)
 
 # Summary on problem solving using SQL
