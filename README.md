@@ -1,6 +1,8 @@
 # SQL Journey
 A high-level course note on [**Data Wrangling, Analysis and AB Testing with SQL** ](https://www.coursera.org/learn/data-wrangling-analysis-abtesting/home/welcome)
 
+See my complete project [here](https://app.mode.com/whiskersreneewe/reports/1c10aff96390/queries/592827e2cd27)
+
 SQL dialect used in this course is Postgresql
 
 # Summary on problem solving using SQL
